@@ -1,0 +1,8 @@
+body {
+  background: linear-gradient(
+    to top,      /* 아래에서 위로 진행 */
+    #ded1bd 0%,  /* 바닥 0% 지점 */
+    #faf6f2 80%, /* 80% 지점에서 #faf6f2로 완전히 바뀜 */
+    #faf6f2 100% /* 80% 이후 위쪽 20%는 같은 색 유지 */
+  );
+}
