@@ -9,6 +9,8 @@
 # --- Required options --- #
 ############################
 
+remote_theme: daattali/beautiful-jekyll@6.0.1
+
 # Name of website
 title: 코더냥
 
