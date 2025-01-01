@@ -1,3 +1,12 @@
+---
+layout: post
+title: 개발자의 CS 커리큘럼
+subtitle: 개발자로서 알아야 할 핵심 CS 지식
+tags: [CS]
+comments: true
+author: CoderNyang
+---
+
 새해 첫 포스팅은 CS로 시작해볼게요~! ^^
 하루에 하나의 개념만 확실히 알고가자! 라는 느낌~!
 
